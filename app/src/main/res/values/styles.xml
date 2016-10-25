@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" >
+        <!-- Customize your theme here. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <declare-styleable name="PullToZoomView">
+        <attr name="headerView" format="reference"/>
+        <attr name="contentView" format="reference"/>
+        <attr name="zoomView" format="reference"/>
+        <attr name="isHeaderParallax" format="boolean"/>
+    </declare-styleable>
+    <!-- From: file:/D:/Android/Code/PullZoomView/PullToZoomView/library/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="scrollview" type="id"/>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\PullToZoomRecycleView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="be1c545afe4bac725ee80e088aeda6e79243228e">
+        <dex dex="D:\PullToZoomRecycleView\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b97e24024213d08dab1fe825ffa7f0cbbad9bdb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PullToZoomRecycleView\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\PullToZoomRecycleView\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_deaa03e094fd4323939191316580548653aa30af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PullToZoomRecycleView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\PullToZoomRecycleView\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c4cc7fe0941261bfc5eb3e380b0e0e49570595b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PullToZoomRecycleView\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\PullToZoomRecycleView\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_97f2ef8d01adff48b9122f0baa22ccde2e9671fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PullToZoomRecycleView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\PullToZoomRecycleView\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_de63f861778d23e04337ca0e49753b1ca85448a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PullToZoomRecycleView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\PullToZoomRecycleView\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_f8ab160464bc359e2e235477b109c7e2613495a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PullToZoomRecycleView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="37790a0ed91ea8283a502eea6adb318cbf62a157">
+        <dex dex="D:\PullToZoomRecycleView\app\build\intermediates\pre-dexed\debug\instant-run_5dc171492fac536fa1059fcb45adf94743be72ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\PullToZoomRecycleView\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_b026ccfea8a9b590c197a4a64f7ab7f1247fb401.jar" />
+    </item>
+
+</items>
